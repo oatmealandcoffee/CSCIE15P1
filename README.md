@@ -30,3 +30,4 @@ None
 * 14\_09\_06\_01\_01\_003: Updated with Live URL; Fixed a couple typos; Added a couple tags to improve formatting
 * 14\_09\_11\_01\_01\_004: Changed index.html to index.php; Deleted index.html; Updated README to class spec
 * 14\_09\_11\_01\_01\_005: Added ssh to github, testing with commit
+* 14\_09\_11\_01\_02\_000: Updated live links to class URL; Updated github links to individual project repos

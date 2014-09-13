@@ -33,29 +33,29 @@
       <div class="col-sm-3">
           <h2>P1</h2>
           <ul>
-	<li><a href="http://www.oatmealandcoffee.com/cscie15/" title="oatmealandcoffee.com">Live URL</a></li>
-	<li><a href="https://github.com/oatmealandcoffee/CSCIE15P1" title="github.com">Github</a></li>
+	<li><a href="http://p1.regan15.pw" title="p1.regan15.pw">Live URL</a></li>
+	<li><a href="https://github.com/oatmealandcoffee/CSCIE15P1" title="github">Github</a></li>
 </ul>
         </div>
         <div class="col-sm-3">
           <h2>P2</h2>
           <ul>
-	<li><a href="http://www.oatmealandcoffee.com" title="oatmeal and coffee">Live URL</a></li>
-	<li><a href="https://github.com/oatmealandcoffee" title="oatmeal and coffee at github">Github</a></li>
+	<li><a href="http://p2.regan15.pw" title="p2.regan15.pw">Live URL</a></li>
+	<li><a href="https://github.com/oatmealandcoffee/CSCIE15P2" title="github">Github</a></li>
 </ul>
         </div>
         <div class="col-sm-3">
           <h2>P3</h2>
           <ul>
-	<li><a href="http://www.oatmealandcoffee.com" title="oatmeal and coffee">Live URL</a></li>
-	<li><a href="https://github.com/oatmealandcoffee" title="oatmeal and coffee at github">Github</a></li>
+	<li><a href="http://p3.regan15.pw" title="p3.regan15.pw">Live URL</a></li>
+	<li><a href="https://github.com/oatmealandcoffee/CSCIE15P3" title="github">Github</a></li>
 </ul>
        </div>
         <div class="col-sm-3">
           <h2>P4</h2>
           <ul>
-	<li><a href="http://www.oatmealandcoffee.com" title="oatmeal and coffee">Live URL</a></li>
-	<li><a href="https://github.com/oatmealandcoffee" title="oatmeal and coffee at github">Github</a></li>
+	<li><a href="http://p4.regan15.pw" title="p4.regan15.pw">Live URL</a></li>
+	<li><a href="https://github.com/oatmealandcoffee/CSCIE15P4" title="github">Github</a></li>
 </ul>
         </div>
       </div>
