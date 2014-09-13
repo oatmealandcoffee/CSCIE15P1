@@ -2,7 +2,7 @@
 **Philip Regan**
 
 # Live URL
-[http://www.foo.com](http://www.foo.com)
+[http://p1.regan15.pw](http://p1.regan15.pw)
 
 # Description
 <!-- 2-3+ sentences -->
@@ -31,3 +31,4 @@ None
 * 14\_09\_11\_01\_01\_004: Changed index.html to index.php; Deleted index.html; Updated README to class spec
 * 14\_09\_11\_01\_01\_005: Added ssh to github, testing with commit
 * 14\_09\_11\_01\_02\_000: Updated live links to class URL; Updated github links to individual project repos
+* 14\_09\_12\_01\_02\_001: Updated README with live URL
