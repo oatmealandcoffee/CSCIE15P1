@@ -23,7 +23,7 @@
         <p>Cheers</p>
         <p><img alt="Philip Regan (The 8-bit version)" src="http://www.oatmealandcoffee.com/external/eightbitavatar.png"></p>
         <p>p</p>
-        
+
       </div>
     </div>
 
@@ -59,7 +59,7 @@
 </ul>
         </div>
       </div>
-      
+
       <h1>A bit more about me...</h1>
       <div class="panel panel-default">
   <div class="panel-heading">
@@ -76,7 +76,7 @@
   </div>
   <div class="panel-body">
     <p>I started programming in Applesscript in 2005, working through a variety of languages—mainly <a href="https://xojo.com" title="Xojo (formerly REALbasic)">Xojo (formerly REALbasic)</a> and <a href="https://developer.apple.com/technologies/mac/cocoa.html" title="Cocoa">Objective-C with the Cocoa frameworks in Xcode</a>—and now primarily <a href="https://creative.adobe.com/products/estk" title="Adobe Extendscript ToolKit for Creative Cloud">Javascript for Adobe Creative Cloud</a>, and whatever Harvard decides to throw at me (which is a lot, suffice to say).</p>
-    
+
     <p>My focus has mainly been on automating a variety of processes related to making books and graphic design: automating page layouts, batch processing images, transforming XML, and other tasks that had really nothing more complex than a dictionary object and the math required to balance a checkbook. My work in the nitty-gritty of computer science didn't happen until I came to school.</p>
   </div>
   <div class="panel-heading">
@@ -101,11 +101,11 @@
       <footer>
         <p>Copyright &copy; 2014 Philip Regan. All rights reserved. All wrongs revenged.</p>
       </footer>
-    </div> 
+    </div>
 
 
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    
+
 </body>
 </html>
